@@ -374,6 +374,7 @@
   }
 
   body {
+    padding-top: 1em;
     color: white;
     background-image: url(../images/nature.jpg);
     background-position: center;
@@ -383,7 +384,7 @@
 
   #wrapper {
     margin: auto;
-    width: 90%;
+    width: 80%;
     padding: 1em 0em 0em 0em;
     display: grid;
     grid-template-rows: auto;
@@ -451,7 +452,7 @@
     cursor: pointer;
     left: 100px;
     top: 65px;
-    font-size: 35px;
+    font-size: 45px;
     color: white;
   }
 
@@ -511,7 +512,6 @@
 
   form {
     width: 30%;
-    padding: 1em;
   }
 
   label {
@@ -564,6 +564,7 @@
   }
 
   .video {
+    padding-top: 1em;
     text-align: center;
   }
 }
